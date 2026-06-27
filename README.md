@@ -7,4 +7,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sathwiiik/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/sathwiiik/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 <!---LeetCode Topics End-->
