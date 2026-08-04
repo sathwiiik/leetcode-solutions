@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sathwiiik/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sathwiiik/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/sathwiiik/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/sathwiiik/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Array
 |  |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sathwiiik/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sathwiiik/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sathwiiik/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
