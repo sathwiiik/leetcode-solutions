@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sathwiiik/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sathwiiik/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sathwiiik/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0746-min-cost-climbing-stairs](https://github.com/sathwiiik/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sathwiiik/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0746-min-cost-climbing-stairs](https://github.com/sathwiiik/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
